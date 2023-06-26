@@ -16,6 +16,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+micro-todoList/user/conf/conf.ini
+micro-todoList/go.sum
+micro-todoList/.idea
 
 # Go workspace file
 go.work
